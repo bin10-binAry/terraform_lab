@@ -1,0 +1,9 @@
+#ignore .terraform 
+**/.terraform/*
+.terraform.*
+
+#plan file
+*.plan
+
+#state file
+*.tfstate
