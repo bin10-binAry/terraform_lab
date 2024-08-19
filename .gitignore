@@ -5,4 +5,4 @@
 *.plan
 
 #state file
-*.tfstate
+*.tfstate.*
