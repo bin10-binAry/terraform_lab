@@ -17,4 +17,4 @@ Objective
 
 # Infrastructure Diagram
 
-![Diagram](VPC_Terraform_step.jpg)
+![Diagram](VPC_Terraform_step.png)
