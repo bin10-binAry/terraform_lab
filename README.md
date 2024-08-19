@@ -14,3 +14,7 @@ Objective
 - **Create a variables.tf and declare all variables in that file**
 
 - **Create terraform tfvars or prod.tfvars and set variable values in that file**
+
+# Infrastructure Diagram
+
+![Diagram](VPC_Terraform_step.jpg)
