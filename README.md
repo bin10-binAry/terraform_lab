@@ -16,4 +16,5 @@ Objective
 - **Create terraform tfvars or prod.tfvars and set variable values in that file**
 
 # Infrastructure Diagram
-![Diagram](image.png)
+![Diagram](![VPC_Terraform_step](https://github.com/user-attachments/assets/230e29cb-0be3-420c-abcb-ab712b56e48b)
+image.png)
